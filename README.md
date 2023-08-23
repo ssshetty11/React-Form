@@ -21,5 +21,5 @@ I've employed several React concepts in crafting a sign-in form, including state
 
 This approach showcases a comprehensive utilization of React principles, integrating state handling, form elements, and dynamic console output to deliver an interactive sign-in form experience.
 
-"I've successfully hosted this page using Netlify. If you have a moment, please take a look at this link: <a>https://extraordinary-maamoul-7dc07b.netlify.app<a/> or click on the visti button
-<button>[visit](https://extraordinary-maamoul-7dc07b.netlify.app)</button>
+"I've successfully hosted this page using Netlify. If you have a moment, please take a look at this link: <a>https://extraordinary-maamoul-7dc07b.netlify.app<a/> or click on the vist button
+<button>button</button>
